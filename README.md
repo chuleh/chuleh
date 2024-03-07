@@ -8,16 +8,16 @@
 
 ## <b> About me </b> 👇🏻
 
-- 📍 I was born and raised in Buenos Aires, Argentina - However, I code all over the globe (remote working perks)
-- 🧾 I've coding and breaking stuff since I had my first computer: an <u>HP 486</u>
+- 📍 I was born and raised in Buenos Aires, Argentina 🇦🇷 - However, I code all over the globe (remote working perks)
+- 🧾 I've been coding and breaking stuff since I had my first computer: an <u>HP Vectra 486</u> (I believe it was 1993?)
 - 🐧 My first Linux distro (and still favorite) was Slackware 7
 - 📝 My favorite text editor is *vim* - I preach the *vim* word everywhere I go
-  - If you check my repos you can see lots of vim configs I've used over the time
+  - If you check my repos you can see lots of vim configs I've used over the years
 
 ## <b>Stuff I'm currently doing</b>
 
-- 🧑🏻‍💻 Working [@apollo.io](https://apollo.io) as 🔐 Cloud Security Engineer
-- 🎥 I've learned a few things over the years so I'm recording that to be uploaded -will update within this year-
+- 🧑🏻‍💻 Working [@apollo.io](https://apollo.io) as a 🔐 Cloud Security Engineer
+- 🎥 I've learned a few things over the years so I'm recording that to be uploaded and delivered as courses -will update within this year-
 - 🎸 I play guitar every single day of my life - I have recorded some (lousy) stuff. Some day I'll share
 
 ## <b>Skills</b>
