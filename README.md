@@ -1,36 +1,63 @@
-## Hi there, I'm Chuleh. 👋 My real name is Leandro but nobody calls me like that.
-### I'm a Sr DevOps Engineer
+<h1 align="center"> Hi there, I'm chuleh </h1>
 
-- 🔭 I'm a huge *vim* nerd. You can borrow my *vimrc* from my repos. (Although I'm leaning towards VSCode lately)
-- 🌱 Lately I'm trying to learn Go.
-- 👯 I live with Martina, my cat.
-- 🥅 2022 Goals: 
-    - Master Python.
-    - Get my *k8s* certificate.
-- ⚡ Fun fact: I play guitar.
-
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Terraform" width="26px" src="https://camo.githubusercontent.com/1a4ed08978379480a9b1ca95d7f4cc8eb80b45ad47c056a7cfb5c597e9315ae5/68747470733a2f2f7777772e6461746f636d732d6173736574732e636f6d2f323838352f313632393934313234322d6c6f676f2d7465727261666f726d2d6d61696e2e737667" />
-<img align="left" alt="k8s" width="26px" src="https://github.com/kubernetes/kubernetes/raw/master/logo/logo.png" />
-<img align="left" alt="Docker" width="26px" src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-</br>
 </br>
 
----
+## Welcome to my profile. My real name's Leandro but nobody calls me like that, just call me `chuleh`.
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+</br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuleh&count_private=true)
+## <b> About me </b> 👇🏻
 
-</details>
+- 📍 I was born and raised in Buenos Aires, Argentina - However, I code all over the globe (remote working perks)
+- 🧾 I've coding and breaking stuff since I had my first computer: an <u>HP 486</u>
+- 🐧 My first Linux distro (and still favorite) was Slackware 7
+- 📝 My favorite text editor is *vim* - I preach the *vim* word everywhere I go
+  - If you check my repos you can see lots of vim configs I've used over the time
 
-[instagram]: https://instagram.com/chulehctt
+## <b>Stuff I'm currently doing</b>
+
+- 🧑🏻‍💻 Working [@apollo.io](https://apollo.io) as 🔐 Cloud Security Engineer
+- 🎥 I've learned a few things over the years so I'm recording that to be uploaded -will update within this year-
+- 🎸 I play guitar every single day of my life - I have recorded some (lousy) stuff. Some day I'll share
+
+## <b>Skills</b>
+- People who have worked with me say:
+    - When it comes to ☁️ clouds, I'm amazing with these:
+      - ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+      - ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+        - and know my way around:
+          - ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+    - About config management, top notch with:
+      - ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+      - ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+    - Containers and Container orchestration? Sure.
+      - ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+      - ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+    - Infra as Code for sure:
+      - ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+
+    - CI/CD? Definitely:
+      - ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+      - ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+      - ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+      - ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) (this one's my favorite)
+
+    - Coding skills? I have some:
+      - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+      - ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+      - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+## <b> 🔐 What about my security knowledge? </b>
+    I've done my fair share of pentestest, however, due to NDA's signed I can't publicly share that data.
+    Having said this, I know quite thoroughly my way around tools suchs as `BurpSuite`, `Owasp ZAP`, `metasploit framework` and industry standards.
+
+    Also, wish I had more time to play hackthebox but my job comes first 😓
+
+## <b> 📖 Certifications? </b>
+    To be fair  I have a few and if you browse my repos you can find notes I took while I was studying for them.
+    Truth be told I never renewed them.
+
+### <b> 📧 Connect </b>
+    If you made it this far and want to connect, drop me an email lcasarettom[at]gmail.com
