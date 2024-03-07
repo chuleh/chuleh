@@ -50,14 +50,14 @@
       - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## <b> 🔐 What about my security knowledge? </b>
-    - I've done my fair share of pentestest, however, due to NDA's signed I can't publicly share that data.
+    I've done my fair share of pentestest, however, due to NDA's signed I can't publicly share that data.
     Having said this, I know quite thoroughly my way around tools suchs as `BurpSuite`, `Owasp ZAP`, `metasploit framework` and industry standards.
 
     Also, wish I had more time to play hackthebox but my job comes first 😓
 
-## Certifications?
-    - to be fair  I have a few and if you browse my repos you can find notes I took while I was studying for them.
-      Truth be told I never renewed them.
+## <b> 📖 Certifications? </b>
+    To be fair  I have a few and if you browse my repos you can find notes I took while I was studying for them.
+    Truth be told I never renewed them.
 
-### Connect
-    - If you made it this far and want to connect, drop me an email *lcasarettom*[at]*gmail.com*
+### <b> 📧 Connect </b>
+    If you made it this far and want to connect, drop me an email lcasarettom[at]gmail.com
